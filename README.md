@@ -1,2 +1,3 @@
 # Coding-Ninja
-this is my first git repo
+This is my first git repo
+Author- Sandeep Chandeliya
